@@ -1,4 +1,4 @@
-# stone_provider
+# PoC Stone - Deeplink
 
 Proof of Concept (PoC) para testes de Deeplink da maquininha Stone
 
