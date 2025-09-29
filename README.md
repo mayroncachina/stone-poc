@@ -21,7 +21,22 @@ integração e investigação do comportamento do SDK/terminal.
 - Páginas de exemplo em `lib/pages/` que demonstram fluxos de pagamento,
 	cancelamento e reimpressão.
 
+[poc.webm](https://github.com/user-attachments/assets/9493f039-0140-4c45-b353-22102e40385b)
+
+
 ## Como usar (rápido)
+
+## Pré-requisitos
+
+- Uma maquininha Stone disponível para testes — este PoC exige um terminal
+	físico para validar a interação via Deeplink.
+- Conta Partner Dev da Stone (perfil de parceiro para desenvolvedores). Para
+	solicitar acesso e gerenciar credenciais visite: https://partnerhub.stone.com.br/
+
+Observação: sem acesso a uma maquininha Stone e à conta de Partner Dev não será
+possível realizar pedidos reais ao terminal — use apenas em ambiente de
+teste/autorizado.
+
 
 1. Abra o projeto no Android Studio / VS Code.
 2. Conecte um dispositivo Android ou emulador.
